@@ -1,0 +1,19 @@
+
+Move controls by code:
+Start from bottom left corner
+int x = 200; //possition x
+int y = 200; //possition y
+[button2 setFrame:NSMakeRect(x, y, button2.frame.size.width, button2.frame.size.height)];
+
+Passaggio dati da una classe all'altra:
+
+Salvataggio:
+myString = [[NSString alloc] initWithString:@"CIAOoooooo"];
+NSLog(@"%@", myString);
+NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+[defaults setObject:myString forKey:@"stringa1"];
+    
+Caricamento:
+NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+NSString *newString = [defaults objectForKey:@"stringa1"];
+NSLog(@"Valore passsato alla classe: %@", newString);

@@ -10,4 +10,4 @@ Di segiuto alcune screenshot relative all'utilizzo dell'applicazione:
 
 ##### Maggiori informazioni disponibili sul mio profilo Linkedin: https://www.linkedin.com/in/rambodrahmani
 
-Rambod Rahmani <rambodrahmani@autistici.org>
+Rambod Rahmani <<rambodrahmani@autistici.org>>

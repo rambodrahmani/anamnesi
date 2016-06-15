@@ -8,6 +8,6 @@ Di segiuto alcune screenshot relative all'utilizzo dell'applicazione:
 
 <img src="screens/anamnesi_1.png" alt="Applicazione Anamnesi - PIC 1" width="400px"/> <img src="screens/anamnesi_2.png" alt="Applicazione Anamnesi - PIC 2" width="400px"/> <img src="screens/anamnesi_3.png" alt="Applicazione Anamnesi - PIC 3" width="400px"/> <img src="screens/anamnesi_4.png" alt="Applicazione Anamnesi - PIC 4" width="400px"/>
 
-##### Maggiori informazioni disponibili sul mio profilo Linkedin: https://www.linkedin.com/in/rambodrahmani
+--
 
 Rambod Rahmani <<rambodrahmani@autistici.org>>
